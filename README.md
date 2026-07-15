@@ -98,3 +98,6 @@ Commit 97 Tue Jul 14 12:16:07 UTC 2026
 Commit 98 Tue Jul 14 12:16:07 UTC 2026
 Commit 99 Tue Jul 14 12:16:07 UTC 2026
 Commit 100 Tue Jul 14 12:16:07 UTC 2026
+## Project Description
+
+This repository is used to practice GitHub commits and learn version control.
