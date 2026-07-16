@@ -101,3 +101,8 @@ Commit 100 Tue Jul 14 12:16:07 UTC 2026
 ## Project Description
 
 This repository is used to practice GitHub commits and learn version control.
+## Features
+
+- Git commit practice
+- Version control learning
+- Base ecosystem participation
