@@ -106,3 +106,9 @@ This repository is used to practice GitHub commits and learn version control.
 - Git commit practice
 - Version control learning
 - Base ecosystem participation
+## Goals
+
+- Learn Git basics
+- Build consistent GitHub activity
+- Explore Base ecosystem
+
