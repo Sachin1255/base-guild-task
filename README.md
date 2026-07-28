@@ -116,4 +116,10 @@ This repository is used to practice GitHub commits and learn version control.
 - Updated repository on July 18, 2026.
 ## Today's Progress
 - Updated repository on July 20, 2026.
-- Continued daily GitHub commit practice.
+- Continued daily GitHub commit practice.## Learning Notes
+- Practicing Git and GitHub every day.
+- Improving version control skills.
+- Building a consistent contribution history.## Future Plans
+- Learn Git branching.
+- Practice pull requests.
+- Contribute to open-source projects.
