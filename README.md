@@ -154,3 +154,9 @@ This repository is used to practice GitHub commits and learn version control.
 - Continued daily GitHub contributions.
 - Improved project documentation.
 - Maintained consistent repository activity.
+
+## Installation
+
+1. Clone this repository.
+2. Open the project in VS Code.
+3. Start practicing Git commands.
